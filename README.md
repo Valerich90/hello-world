@@ -1,2 +1,1 @@
-# hello-world
-just for studying
+Just trying to understand how it works
